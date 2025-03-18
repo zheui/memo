@@ -105,7 +105,7 @@
 如有任何问题或建议，请通过以下方式联系我们：
 
 - 邮箱: 859165641@qq.com
-- GitHub Issues: [Issues 页面](https://github.com/your-username/desktop-memo/issues)
+- GitHub Issues: (https://github.com/zheui/memo/issues)
 ---
 感谢您的支持！希望这款桌面备忘录能为您的日常工作和生活带来便利 😊
 --- 
